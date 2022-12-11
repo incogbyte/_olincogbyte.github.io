@@ -6,7 +6,19 @@
     <description>Recent content in Posts on incogbyte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jun 2022 10:12:34 -0300</lastBuildDate><atom:link href="https://incogbyte.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Nov 2022 17:12:34 -0300</lastBuildDate><atom:link href="https://incogbyte.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detect burp suite</title>
+      <link>https://incogbyte.github.io/posts/detect-burp/</link>
+      <pubDate>Fri, 11 Nov 2022 17:12:34 -0300</pubDate>
+      
+      <guid>https://incogbyte.github.io/posts/detect-burp/</guid>
+      <description>tl;dr
+You can see the result here :)
+Click here 👀
+Hey guys, I’m here to show you a little simple technique, but it’s a tip that maybe someday help someone. The question is how to identify that someone is using web proxy (BURP)? well, a friend of mine aka Jerry was with me one afternoon and we decided to do a PoC, maybe a lot of people already know, but when starting BURP it automatically goes up to a “light” web server where you can for example download the BURP certificate to import into your browser or device at the following address http://burp/ The following image illustrates this interface:</description>
+    </item>
+    
     <item>
       <title>Reversing Nim Binary With Radare</title>
       <link>https://incogbyte.github.io/posts/reverse-nim-binary-with-radare/</link>
